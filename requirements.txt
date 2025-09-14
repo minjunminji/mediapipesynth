@@ -1,0 +1,7 @@
+# Core runtime deps
+mediapipe>=0.10
+opencv-python>=4.8
+pyo>=1.0
+
+# Utilities (optional but common)
+numpy>=1.24
