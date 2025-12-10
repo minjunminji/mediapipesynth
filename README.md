@@ -1,4 +1,4 @@
-# MediaPipe Synth
+awdawdawdawd# MediaPipe Synth
 
 A hand-tracked, Serum-inspired synth prototype built with Python, MediaPipe, and Pyo.
 Built for synth sound design without the need for the various dials/controls on common synths such as Serum.
